@@ -1,0 +1,11 @@
+D:\DotNet6Angular15-CrudOperations\DotNetCore6WebAPI\DomainLayer\bin\Debug\net6.0\DomainLayer.deps.json
+D:\DotNet6Angular15-CrudOperations\DotNetCore6WebAPI\DomainLayer\bin\Debug\net6.0\DomainLayer.dll
+D:\DotNet6Angular15-CrudOperations\DotNetCore6WebAPI\DomainLayer\bin\Debug\net6.0\DomainLayer.pdb
+D:\DotNet6Angular15-CrudOperations\DotNetCore6WebAPI\DomainLayer\obj\Debug\net6.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet6Angular15-CrudOperations\DotNetCore6WebAPI\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfoInputs.cache
+D:\DotNet6Angular15-CrudOperations\DotNetCore6WebAPI\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfo.cs
+D:\DotNet6Angular15-CrudOperations\DotNetCore6WebAPI\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\DotNet6Angular15-CrudOperations\DotNetCore6WebAPI\DomainLayer\obj\Debug\net6.0\DomainLayer.dll
+D:\DotNet6Angular15-CrudOperations\DotNetCore6WebAPI\DomainLayer\obj\Debug\net6.0\refint\DomainLayer.dll
+D:\DotNet6Angular15-CrudOperations\DotNetCore6WebAPI\DomainLayer\obj\Debug\net6.0\DomainLayer.pdb
+D:\DotNet6Angular15-CrudOperations\DotNetCore6WebAPI\DomainLayer\obj\Debug\net6.0\ref\DomainLayer.dll
